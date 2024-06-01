@@ -7,6 +7,8 @@
 6. Добавление и настройка Rigidbody 2D
 7. Добавление и настройка Box Collider 2D
 8. Добавление скрипта передвижения персонажа и смены спрайта по направлению
+
+
 <Window x:Class="YourNamespace.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
